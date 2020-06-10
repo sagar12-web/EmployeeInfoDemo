@@ -1,0 +1,26 @@
+.fo {
+	font-weight: bold;
+	font-style: italic;
+}
+
+#l {
+	font-weight: bold;
+	font-style: italic;
+}
+
+label {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.mainBody {
+	margin: 100px 0px 0px 300px;
+	background-color:gray;
+	width: 500px;
+	height: 500px;
+	border: 5px solid black
+}
+
+input {
+	padding-left: 30px
+}
